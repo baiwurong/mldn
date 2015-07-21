@@ -9,5 +9,6 @@
 		<li><a href="javascript:void(0);">腾讯</a></li>
 		<li><a href="javascript:void(0);">腾讯</a></li>
 	</ul>
+	<P>第三方方法是发顺丰</P>
 </body>
 </html>
